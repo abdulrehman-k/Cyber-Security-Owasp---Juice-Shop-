@@ -24,11 +24,6 @@ A detailed, white-box security audit conducted on a locally deployed instance of
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="Your GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" height="150" />
-</p>
 
 
