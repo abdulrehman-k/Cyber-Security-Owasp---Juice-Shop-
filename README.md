@@ -31,9 +31,4 @@ A detailed, white-box security audit conducted on a locally deployed instance of
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" alt="Top Languages" height="150" />
 </p>
 
----
 
-### 🤝 Connect with Me
-
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Email:** [your.email@example.com](mailto:your.email@example.com)
